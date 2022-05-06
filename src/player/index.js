@@ -1,1 +1,1 @@
-export const player = "player";
+export * from './player';

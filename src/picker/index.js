@@ -1,1 +1,1 @@
-export const picker = "picker";
+export * from './cameraroll';

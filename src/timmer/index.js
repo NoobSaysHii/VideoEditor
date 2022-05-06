@@ -1,1 +1,1 @@
-export const trimmer = "trimmer";
+export * from './trimmer';

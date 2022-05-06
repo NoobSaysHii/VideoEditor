@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@ffmpeg/core": "^0.10.0",
+    "@ffmpeg/ffmpeg": "^0.10.1",
+    "@react-native-community/cameraroll": "^4.1.2",
     "react": "17.0.2",
     "react-native": "0.68.1"
   },
